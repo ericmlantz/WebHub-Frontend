@@ -1,4 +1,4 @@
-# Web Hub
+# Web Hub - Frontend
 ### By: Eric Lantz
 
 Week of May 9th
