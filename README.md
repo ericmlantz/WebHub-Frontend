@@ -35,6 +35,8 @@ Portfolio Project 4: A web search and page tracking application. Take notes and 
 ***
 <a id="started"></a>
 ### ***Getting Started***
+Project Backend can be found [here.](https://github.com/ericmlantz/webhub-backend)
+
 A Trello board was used to keep track of development progress and can be viewed [here.](https://trello.com/b/NJw6FmQ6/search-hub)
 
 The project itself was deployed and can be viewed [here.](NEED TO ADD)
