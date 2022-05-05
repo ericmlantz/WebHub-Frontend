@@ -30,13 +30,14 @@ Portfolio Project 4: A web search and page tracking application. Take notes and 
 * Github
 * Google Programmable Search Engine
 * html2canvas
+* OAuth
 
 ***
 <a id="started"></a>
 ### ***Getting Started***
 A Trello board was used to keep track of development progress and can be viewed [here.](https://trello.com/b/NJw6FmQ6/search-hub)
 
-The project itself was deployed and can be viewed [here.]("NEED TO ADD")
+The project itself was deployed and can be viewed [here.](NEED TO ADD)
 ***
 ### ***Screenshots***
 <a id="screenshots"></a>
