@@ -1,4 +1,4 @@
-# Search Hub
+# Web Hub
 ### By: Eric Lantz
 
 Week of May 9th
