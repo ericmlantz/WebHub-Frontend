@@ -43,7 +43,7 @@ The project itself was deployed and can be viewed [here.](NEED TO ADD)
 <a id="screenshots"></a>
 
 #### **Card Style**
-![Image]('non)
+![https://developer.okta.com/assets-jekyll/blog/oauth/oauth-actors-cd8b4861e839037400d8521e97c5d8cf0cb029add65d1036488991c7e85dcb72.png](OAuth)
 ***
 <a id="updates"></a>
 ### ***Future Updates***
